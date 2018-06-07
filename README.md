@@ -1,6 +1,6 @@
 # edX-clone
 
-Just tried to clone the edX website as part of an internship.
+> Just tried to clone the edX website as part of an internship.
 
 ## Screenshot
 
